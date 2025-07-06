@@ -14,6 +14,7 @@ import ContactPage from "./pages/ContactPage";
 import NotFound from "./pages/NotFound";
 
 // const queryClient = new QueryClient();
+// const queryClient = new QueryClient();
 const queryClient = new QueryClient();
 
 const App = () => (
